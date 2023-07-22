@@ -20,7 +20,6 @@ If you have any questions about programming, web development, or technology in g
 ### ⚡ Curiosity
 In my spare time, I enjoy studying space and learning about cutting-edge scientific discoveries. Naturally, I love spending time with my dogs! 🚀🌌🧠🐶
 
-Connect with me on:
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100023753100171)](https://www.facebook.com/profile.php?id=100023753100171)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/francesca_mazzeo_/)](https://www.instagram.com/francesca_mazzeo_/)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/FrancescaMazzeo)](https://t.me/FrancescaMazzeo)
