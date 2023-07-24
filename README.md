@@ -30,4 +30,4 @@ In my spare time, I enjoy studying space and learning about cutting-edge scienti
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/francesca-mazzeo-62232123b/)](https://www.linkedin.com/in/francesca-mazzeo-62232123b/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/DevFrancescaM)](https://twitter.com/DevFrancescaM)
 
-Feel free to explore my repositories and connect with me. Happy programming! 🌟
+Feel free to explore my repositories and connect with me. Happy coding! 🌟
