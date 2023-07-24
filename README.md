@@ -13,9 +13,13 @@ I am passionate about collaborating with like-minded developers and contributing
 If you have any questions about programming, web development, or technology in general, don't hesitate to ask! I am always happy to share my knowledge and learn from others.
 
 ### 📫 How to reach me
-- Email: dev.francesca.mazzeo@gmail.com
-- Portfolio: devfrancescamazzeo.com
-- LinkedIn: Francesca Mazzeo
+- Email: [dev.francesca.mazzeo@gmail.com](mailto:dev.francesca.mazzeo@gmail.com)
+- Portfolio: [devfrancescamazzeo.com](https://devfrancescamazzeo.com)
+- LinkedIn: [Francesca Mazzeo](https://www.linkedin.com/in/francesca-mazzeo-62232123b/)
+- Twitter: [@DevFrancescaM](https://twitter.com/DevFrancescaM)
+- Facebook: [Francesca Mazzeo](https://www.facebook.com/profile.php?id=100023753100171)
+- Instagram: [francesca_mazzeo_](https://www.instagram.com/francesca_mazzeo_/)
+- Telegram: [FrancescaMazzeo](https://t.me/FrancescaMazzeo)
 
 ### ⚡ Curiosity
 In my spare time, I enjoy studying space and learning about cutting-edge scientific discoveries. Naturally, I love spending time with my dogs! 🚀🌌🧠🐶
