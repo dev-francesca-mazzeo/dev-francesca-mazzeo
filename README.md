@@ -23,5 +23,7 @@ In my spare time, I enjoy studying space and learning about cutting-edge scienti
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100023753100171)](https://www.facebook.com/profile.php?id=100023753100171)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/francesca_mazzeo_/)](https://www.instagram.com/francesca_mazzeo_/)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/FrancescaMazzeo)](https://t.me/FrancescaMazzeo)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-2CA5E0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francesca-mazzeo-62232123b/)]([https://t.me/FrancescaMazzeo](https://www.linkedin.com/in/francesca-mazzeo-62232123b/))
+[![Twitter](https://img.shields.io/badge/-Twitter-2CA5E0?style=flat-square&logo=Twitter&logoColor=white&link=[https://t.me/FrancescaMazzeo](https://twitter.com/DevFrancescaM))]([https://t.me/FrancescaMazzeo](https://twitter.com/DevFrancescaM))
 
 Feel free to explore my repositories and connect with me. Happy programming! 🌟
